@@ -48,6 +48,6 @@ live DynamoDB/S3/KMS, GitHub-OIDC CI/CD), guardrailed, traceable, PCI/GDPR-aware
 🟢 **Open to Lead / Senior AI &amp; MLOps roles.** I like hard, measurable problems where AI has to be
 correct, safe, and shipped — not just impressive in a notebook.
 
-📫 **[marlontecotl@gmail.com](mailto:marlontecotl@gmail.com)** · start with [`payops-copilot`](https://github.com/marlontecotl/payops-copilot) to see how I work.
+📫 **[marlontecotl@gmail.com](mailto:marlontecotl@gmail.com)** · [**LinkedIn**](https://www.linkedin.com/in/marlon-tecotl/) · start with [`payops-copilot`](https://github.com/marlontecotl/payops-copilot) to see how I work.
 
 <sub>Fast to prototype, disciplined to production. I fail fast, measure, and ship.</sub>
