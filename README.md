@@ -34,12 +34,18 @@ live DynamoDB/S3/KMS, GitHub-OIDC CI/CD), guardrailed, traceable, PCI/GDPR-aware
 - **DevOps on AWS** — Terraform IaC, ECS/Lambda, DynamoDB/S3/KMS/Secrets, Step Functions, GitHub-OIDC CI/CD — *no static keys*.
 - **Domains** — fintech &amp; payments, industrial automation, enterprise conversational AI. Comfortable in regulated, transactional settings.
 
-### Selected work
+### Selected case studies
 
-- **Payments AI-SDLC + ops platform** — the flagship above, deployed end-to-end on AWS.
-- **Industrial quoting automation** — CAD-vision intake → ML cost prediction → CRM-driven quote-to-close.
-- **Multi-tenant AI chatbot SaaS** — function-calling over per-tenant data, RAG, subscription billing.
-- **Production multi-agent support platforms** — payments, RAG and network-diagnostics agents with observability and human handoff.
+Production systems I designed and built — code is private (owned by me); **architecture and results are shared**:
+
+- [**Telecom multi-agent conversational AI**](https://github.com/marlontecotl/telecom-conversational-ai-platform) — 11 agents · ~150 tools · Kubernetes · streaming chat & voice.
+- [**Industrial quoting AI**](https://github.com/marlontecotl/industrial-quoting-ai) — GPT-Vision CAD reading → ML cost prediction → CRM quote-to-close (~110k LOC).
+- [**Multi-tenant AI chatbot SaaS**](https://github.com/marlontecotl/multitenant-ai-chatbot-saas) — per-tenant RAG + function-calling, Stripe billing.
+- [**LLM reliability & categorization**](https://github.com/marlontecotl/llm-reliability-categorization) — dual-LLM failover + anti-hallucination validators (~99.5% availability).
+- [**LLM observability platform**](https://github.com/marlontecotl/llm-observability-platform) — instruments ~220K interactions; automated failure-triage.
+- [**NL analytics assistant**](https://github.com/marlontecotl/nl-analytics-assistant) — ask-your-data over KPIs, multi-agent, streamed to React.
+- [**PCI-safe AI support agent**](https://github.com/marlontecotl/telecom-ai-support-agent) — tool-using agent with RSA field-level card/CVV encryption.
+- [**AI sales agent + Responsible-AI**](https://github.com/marlontecotl/ai-sales-agent) — STRIDE threat model, compliance, AI-assisted SDLC.
 
 ---
 
